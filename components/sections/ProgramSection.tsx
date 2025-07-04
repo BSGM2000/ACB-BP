@@ -47,7 +47,7 @@ const ProgramSection: React.FC = () => {
                     <div className="w-full md:w-1/2">
                         <ScrollAnimator>
                             <p className="text-lg mb-8 text-slate-300">
-                                Es una iniciativa que transforma el trayecto al colegio en una aventura segura, saludable y divertida. Creamos caravanas ciclísticas guiadas por adultos responsables, fomentando una cultura de movilidad sostenible y construyendo comunidad.
+                                Es una iniciativa que transforma el trayecto al colegio en una aventura segura, saludable y divertida. Creamos caravanas ciclísticas guiadas por guías escolares responsables, fomentando una cultura de movilidad sostenible y construyendo comunidad.
                             </p>
                         </ScrollAnimator>
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
