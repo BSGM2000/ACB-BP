@@ -8,7 +8,7 @@ interface HeaderProps {
 
 const navLinks = [
     { id: "inicio", label: "Inicio" },
-    { id: "programa", label: "El Programa" },
+    { id: "programa", label: "Al Colegio En Bici" },
     { id: "biciparceros", label: "Biciparceros" },
     { id: "galeria", label: "Galería" },
     { id: "contacto", label: "Contacto" },
