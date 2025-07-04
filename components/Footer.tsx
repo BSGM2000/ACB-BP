@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
 
                 <ScrollAnimator>
                     <div className="mt-8 pt-8 border-t border-slate-800/50 flex items-center justify-center gap-2">
-                        Diseñado con <HeartIcon className="h-5 w-5 text-purple-500" /> para los ciclistas del futuro.
+                        Diseñado con <HeartIcon className="h-5 w-5 text-red-500" /> para los ciclistas del futuro.
                     </div>
                 </ScrollAnimator>
             </div>
